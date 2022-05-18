@@ -1,3 +1,0 @@
-$RECYCLE.BIN
-msdownld.tmp
-System Volume Information
